@@ -1,4 +1,4 @@
-const { ApolloServer, AuthenticationError } = require("apollo-server");
+﻿const { ApolloServer, AuthenticationError } = require("apollo-server");
 const mongoose = require("mongoose");
 const fs = require("fs");
 const path = require("path");
@@ -19,6 +19,8 @@ mongoose
   .connect(
     process.env.MONGO_URI,
     { useNewUrlParser: true }
+
+
   )
   .then(() => {
     console.log("BD conectada");
