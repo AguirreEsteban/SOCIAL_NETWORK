@@ -2,21 +2,6 @@
 ### Una aplicación de red social construida con Vue.js, Node.js, Express y MongoDB
 ==============
 
-## Demo y aplicación en vivo
-
-### Sign up and Login Page
-
-![ezgif com-gif-maker (3)](https://user-images.githubusercontent.com/32003938/125349152-dcc48200-e365-11eb-9f21-1807009c4a46.gif)
-
-
-### Follow/Unfollow
-
-![ezgif com-gif-maker (4)](https://user-images.githubusercontent.com/32003938/125349173-e1893600-e365-11eb-8fe8-d5a0b2e0eae5.gif)
-
-
-### Añadir un post de texto, un post de imagen, un comentario y un comentario de imagen
-
-![ezgif com-gif-maker (5)](https://user-images.githubusercontent.com/32003938/125349400-3167fd00-e366-11eb-9325-cf2704046081.gif)
 
 
 ## Instalación
