@@ -83,6 +83,3 @@ AUTH_ACCESS_TOKEN = su token de acceso
   * 2.1.4 El backend puede almacenar las versiones hash de las contraseñas de los usuarios y en texto plano.
 * 2.2 Rendimiento
   * El backend puede manejar más de 1000 peticiones concurrentes en cualquier momento.
-
-
-Traducción realizada con la versión gratuita del traductor www.DeepL.com/Translator
