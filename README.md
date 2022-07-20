@@ -8,7 +8,7 @@
 
 ### Paso 1: Clonar el repo
 ```
-git clone https://github.com/fcyln/island
+git clone https://github.com/AguirreEsteban/SOCIAL_NETWORK
 ```
 
 ### Paso 2: Prerrequisitos(Frontend)
