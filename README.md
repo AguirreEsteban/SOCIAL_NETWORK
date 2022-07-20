@@ -1,4 +1,4 @@
-# isla
+# SOCIAL
 ### Una aplicación de red social construida con Vue.js, Node.js, Express y MongoDB
 ==============
 
